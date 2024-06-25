@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola, soy Lucía Quijada! 👋
+¡Hola! Soy Lucía, Front-end Developer & Game Developer. 🚀
 
-<!--
-**luciaquijada/luciaquijada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de Mí
+- 🎓 Estudié Desarrollo de Aplicaciones Multiplataformas y Desarrollo de videojuegos en Salamanca.
+- 💼 Actualmente trabajo en Air Institute como Desarrolladora Front-end.
+- 🌱 Me encanta aprender nuevas tecnologías y frameworks.
+- 📫 Puedes contactarme en [lquijadagordo17@gmail.com] o en [LinkedIn](https://www.linkedin.com/in/luc%C3%ADa-quijada-a32665239/).
 
-Here are some ideas to get you started:
+## Habilidades
+- Lenguajes de Programación: JavaScript, C#
+- Frameworks: React, Vue, Unity
+- Herramientas: Git
+- Bases de Datos: MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos Destacados
+- [Proyecto 1](https://github.com/luciaquijada/portfolioAstro): Portfolio web.
+
+## Conéctate Conmigo
+- [LinkedIn](https://www.linkedin.com/in/luc%C3%ADa-quijada-a32665239/)
+- [Portfolio Personal](https://portfoliolucia.netlify.app/)
+- [Email](lquijadagordo17@gmail.com)
