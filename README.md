@@ -1,5 +1,5 @@
 # ¡Hola, soy Lucía Quijada! 👋
-¡Hola! Soy Lucía, Front-end Developer & Game Developer. 🚀
+Front-end Developer & Game Developer. 🚀
 
 ## Acerca de Mí
 - 🎓 Estudié Desarrollo de Aplicaciones Multiplataformas y Desarrollo de videojuegos en Salamanca.
