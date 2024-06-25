@@ -9,7 +9,7 @@ Front-end Developer & Game Developer. 🚀
 
 ## Habilidades
 - Lenguajes de Programación: JavaScript, C#
-- Frameworks: React, Vue, Unity
+- Frameworks: Vue, Unity, Astro
 - Herramientas: Git
 - Bases de Datos: MySQL
 
