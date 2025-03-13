@@ -1,22 +1,20 @@
-# ¡Hola, soy Lucía Quijada! 👋
-Front-end Developer & Game Developer. 🚀
-
-## Acerca de Mí
-- 🎓 Estudié Desarrollo de Aplicaciones Multiplataformas y Desarrollo de videojuegos en Salamanca.
-- 💼 Actualmente trabajo en Air Institute como Front-end Developer.
-- 🌱 Me encanta aprender nuevas tecnologías y frameworks.
-- 📫 Puedes contactarme en [lquijadagordo17@gmail.com] o en [LinkedIn](https://www.linkedin.com/in/luc%C3%ADa-quijada-a32665239/).
-
-## Habilidades
-- Lenguajes de Programación: JavaScript, C#
-- Frameworks: Vue, Unity, Astro
-- Herramientas: Git
-- Bases de Datos: MySQL
-
-## Proyectos Destacados
-- [Proyecto 1](https://github.com/luciaquijada/portfolioAstro): Portfolio web.
-
-## Conéctate Conmigo
-- [LinkedIn](https://www.linkedin.com/in/luc%C3%ADa-quijada-a32665239/)
-- [Portfolio Personal](https://portfoliolucia.netlify.app/)
-- [Email](lquijadagordo17@gmail.com)
+<h1>Hi 👋, I'm Lucía Quijada</h1>
+<p>Soy una apasionada del desarrollo web y de videojuegos. Estudié Desarrollo de Aplicaciones Multiplataformas y Desarrollo de Videojuegos en Salamanca, donde adquirí una base sólida para crear experiencias digitales innovadoras. Actualmente, formo parte del equipo de Air Institute como Front-end Developer, donde aplico mis conocimientos y pasión por las nuevas tecnologías y frameworks.  Mi objetivo es seguir aprendiendo y explorando el mundo del desarrollo, tanto en el ámbito de la creación de interfaces atractivas como en el diseño y desarrollo de videojuegos. Siempre en busca de nuevos retos y oportunidades de crecimiento profesional.  No dudes en contactarme si quieres conversar sobre tecnología, desarrollo o cualquier proyecto emocionante. </p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a></p>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/lucía-quijada-a32665239/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=luciaquijada&show_icons=true&locale=en" alt="luciaquijada" /></p>
