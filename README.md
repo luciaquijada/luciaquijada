@@ -18,5 +18,4 @@
 
 
 ![Lucía's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciaquijada&theme=react&show_icons=true)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luciaquijada&theme=react&hide_border=true" alt="GitHub Streak" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luciaquijada&label=Profile%20views&color=0e75b6&style=flat" alt="luciaquijada" /> </p>
