@@ -15,7 +15,7 @@
 <p align="left">Me gusta pensar que el desarrollo es un tipo de artesanía digital: mezclar ideas, lógica y diseño hasta que todo encaje y funcione con fluidez.  <br>Disfruto creando aplicaciones que no solo se vean bien, sino que tengan sentido, que hagan la vida un poquito más fácil.<br><br>Soy una persona muy organizada, pero también necesito espacios para la creatividad.  <br>Por eso me muevo bien entre la estructura del código y la improvisación del diseño, entre los plazos y la inspiración.<br><br>Trabajo actualmente en el Bisite Research Group, explorando cómo la tecnología puede mejorar la manera en que aprendemos y nos comunicamos.  <br>Además, estudio Psicología, porque entender a las personas es tan importante como entender un buen sistema.</p>
 
 ###
-
+<hr>
 <h3 align="left">🧭 Lo que me mueve</h3>
 
 ###
@@ -23,7 +23,7 @@
 <p align="left">- Aprender cosas nuevas y trastear con tecnologías que me despierten la curiosidad.  <br><br>- Crear experiencias digitales que conecten con las personas, no solo con las pantallas.  <br><br>- Buscar soluciones que tengan sentido, combinando lógica y sensibilidad.  <br><br>- Juntar lo que más me gusta: psicología y tecnología, para construir algo que deje huella.</p>
 
 ###
-
+<hr>
 <h3 align="left">💬 Un poco más personal</h3>
 
 ###
@@ -31,7 +31,7 @@
 <p align="left">Me encantan los retos, las ideas bien pensadas y los proyectos que nacen de la curiosidad.  <br>Soy de las que hacen listas para todo (y disfrutan tachando cada tarea).  <br>A veces el proceso creativo parece un lío… pero, como decimos por mi tierra, “el que se agobia, ni siembra ni recoge.”</p>
 
 ###
-
+<hr>
 <h3 align="left">⚙️ Algunas de mis herramientas favoritas</h3>
 
 ###
@@ -69,13 +69,7 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=luciaquijada&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
+<hr>
 <h6 align="center">“A veces entiendo todo, y justo ahí empieza el problema.”</h6>
 
 ###
@@ -98,3 +92,4 @@
 </div>
 
 ###
+
