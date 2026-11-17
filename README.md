@@ -1,95 +1,133 @@
-<br clear="both">
-
-<h1 align="left">🙋🏼‍♀️ ¡Hooola! Soy Lucía Quijada</h1>
-
-###
-
-<h3 align="center">Front end developer | Web & Mobile Apps</h3>
-
-###
-
-<h3 align="left">🌾 Sobre mí</h3>
-
-###
-
-<p align="left">Me gusta pensar que el desarrollo es un tipo de artesanía digital: mezclar ideas, lógica y diseño hasta que todo encaje y funcione con fluidez.  <br>Disfruto creando aplicaciones que no solo se vean bien, sino que tengan sentido, que hagan la vida un poquito más fácil.<br><br>Soy una persona muy organizada, pero también necesito espacios para la creatividad.  <br>Por eso me muevo bien entre la estructura del código y la improvisación del diseño, entre los plazos y la inspiración.<br><br>Trabajo actualmente en el Bisite Research Group, explorando cómo la tecnología puede mejorar la manera en que aprendemos y nos comunicamos.  <br>Además, estudio Psicología, porque entender a las personas es tan importante como entender un buen sistema.</p>
-
-###
-<hr>
-<h3 align="left">🧭 Lo que me mueve</h3>
-
-###
-
-<p align="left">- Aprender cosas nuevas y trastear con tecnologías que me despierten la curiosidad.  <br><br>- Crear experiencias digitales que conecten con las personas, no solo con las pantallas.  <br><br>- Buscar soluciones que tengan sentido, combinando lógica y sensibilidad.  <br><br>- Juntar lo que más me gusta: psicología y tecnología, para construir algo que deje huella.</p>
-
-###
-<hr>
-<h3 align="left">💬 Un poco más personal</h3>
-
-###
-
-<p align="left">Me encantan los retos, las ideas bien pensadas y los proyectos que nacen de la curiosidad.  <br>Soy de las que hacen listas para todo (y disfrutan tachando cada tarea).  <br>A veces el proceso creativo parece un lío… pero, como decimos por mi tierra, “el que se agobia, ni siembra ni recoge.”</p>
-
-###
-<hr>
-<h3 align="left">⚙️ Algunas de mis herramientas favoritas</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=bots" height="40" alt="abbrobotstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-</div>
-
-###
-<hr>
-<h6 align="center">“A veces entiendo todo, y justo ahí empieza el problema.”</h6>
-
-###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=luciaquijada.luciaquijada&"  />
+
+# Hey, I'm Lucía Quijada.
+
+### Software Developer · Vue & TypeScript
+
+**Engineering · Creative Development · Digital Products**
+
+*Ideas que se convierten en producto.*
+
+[Portfolio](https://www.quijadadev.es/) · [LinkedIn](https://www.linkedin.com/in/luciaquijada/) · [GitHub](https://github.com/luciaquijada)
+
 </div>
 
-###
+---
 
-<br clear="both">
+## 🌾 Sobre mí
 
-<div align="right">
-  <a href="https://www.linkedin.com/in/luc%C3%ADa-quijada-a32665239/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="lquijadagordo17@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
-  </a>
+Me gusta pensar que el desarrollo es una forma de **artesanía digital**: mezclar ideas, lógica y diseño hasta que todo encaje y funcione con fluidez.
+
+Disfruto creando aplicaciones que no solo se vean bien, sino que tengan sentido y hagan la vida un poquito más fácil. Me interesa todo el recorrido de un producto: **entender un problema, plantear una solución, diseñarla, desarrollarla y mejorarla**.
+
+Soy una persona organizada, pero también necesito espacio para la creatividad. Por eso me siento cómoda entre la estructura del código y la experimentación del diseño.
+
+Actualmente trabajo como **Frontend Developer en BISITE Research Group**, desarrollando interfaces web e integrando servicios. Además, estudio Psicología: me interesa comprender a las personas tanto como comprender los sistemas que utilizamos.
+
+Más allá del trabajo, construyo proyectos personales para explorar nuevas tecnologías y convertir ideas en software real.
+
+---
+
+## 🧭 Lo que me mueve
+
+- **Construir con intención.** Resolver problemas reales, no añadir complejidad por añadirla.
+- **Unir desarrollo y diseño.** Cuidar tanto el código como la experiencia de quien utiliza el producto.
+- **Seguir aprendiendo.** Probar tecnologías, cuestionar decisiones y mejorar con cada proyecto.
+- **Pensar en producto.** Ir más allá de la implementación y entender para qué existe cada funcionalidad.
+- **Conectar tecnología y personas.** Explorar cómo la psicología y el diseño pueden mejorar las experiencias digitales.
+
+---
+
+## ⚙️ Tecnologías y herramientas
+
+### Mi enfoque principal
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vue,ts,js,html,css,git" height="42" alt="Vue, TypeScript, JavaScript, HTML, CSS y Git" />
 </div>
 
-###
+### Otras tecnologías con las que he trabajado
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=astro,react,nodejs,bootstrap,swift,python,supabase,mongodb,mysql" height="42" alt="Astro, React, Node.js, Bootstrap, Swift, Python, Supabase, MongoDB y MySQL" />
+</div>
+
+### Diseño, desarrollo y organización
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=figma,github,githubactions,docker,postman,notion,unity" height="42" alt="Figma, GitHub, GitHub Actions, Docker, Postman, Notion y Unity" />
+</div>
+
+> Mi experiencia varía según la tecnología. **Vue y TypeScript** son mi foco profesional principal; el resto forma parte de otros trabajos, proyectos y aprendizajes.
+
+---
+
+## 🧩 Proyectos seleccionados
+
+Algunos proyectos propios y experimentos con los que exploro desarrollo de software, automatización y herramientas para desarrolladores.
+
+| Proyecto | Qué es | Enlaces |
+| --- | --- | --- |
+| **Sharks** | Aplicación para macOS orientada a organizar proyectos y flujos de trabajo de desarrollo. | [Web](https://sharks-app.es/en) · [Releases](https://github.com/luciaquijada/sharks-releases) |
+**Nota:** algunos proyectos están en desarrollo o evolucionan por iteraciones. El estado y las funcionalidades verificadas se detallan en sus respectivos repositorios.
+
+Puedes encontrar más información sobre mi trabajo en [quijadadev.es](https://www.quijadadev.es/).
+
+---
+
+## 🔭 En qué estoy profundizando
+
+Me interesa seguir creciendo como desarrolladora de software y ampliar mi perspectiva más allá del frontend. En particular:
+
+- **IA aplicada al desarrollo:** integración de LLM y herramientas inteligentes en aplicaciones.
+- **Developer experience:** utilidades que simplifiquen el trabajo diario de otros desarrolladores.
+- **Arquitectura y calidad:** formas de crear software mantenible, verificable y escalable.
+- **Aplicaciones multiplataforma:** explorar nuevos entornos y experiencias.
+- **Diseño de producto:** relacionar decisiones técnicas con necesidades de usuario.
+
+Son áreas de aprendizaje y experimentación, no especialidades que pretenda dar por dominadas.
+
+---
+
+## 💼 Experiencia profesional
+
+**Frontend Developer · BISITE Research Group**  
+*Junio de 2024 – actualidad*
+
+Desarrollo de interfaces web, aplicaciones responsivas e integración de APIs, principalmente con Vue y TypeScript.
+
+**Junior Web Developer · FG USAL**  
+*Marzo de 2023 – junio de 2023*
+
+Desarrollo y mejora de sitios web utilizando tecnologías como Laravel y Bootstrap.
+
+**Formación:** Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
+
+---
+
+## 💬 Un poco más personal
+
+Me gustan los retos, las ideas bien pensadas y los proyectos que nacen de la curiosidad. Soy de las que hacen listas para todo (y disfrutan tachando cada tarea).
+
+A veces el proceso creativo parece un lío… pero, como decimos por mi tierra, **«el que se agobia, ni siembra ni recoge»**.
+
+---
+
+## 📫 Conectamos
+
+Si quieres conocer mis proyectos, hablar de desarrollo o proponer una colaboración:
+
+- 🌐 **Portfolio:** [quijadadev.es](https://www.quijadadev.es/)
+- 💼 **LinkedIn:** [Lucía Quijada](https://www.linkedin.com/in/luciaquijada/)
+- ✉️ **Email:** [Escríbeme](mailto:lquijadagordo17@gmail.com)
+
+<div align="center">
+
+---
+
+*«A veces entiendo todo, y justo ahí empieza el problema».*
+
+**quijada dev · Ideas que se convierten en producto.**
+
+</div>
